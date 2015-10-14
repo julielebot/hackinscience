@@ -1,4 +1,3 @@
 a=42
-print (a)
-
+print(a)
 
