@@ -1,4 +1,4 @@
-a = 42
-print ( a )
+a=42
+print (a)
 
 
