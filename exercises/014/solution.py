@@ -1,4 +1,4 @@
-#!/usr/bin/python3.4 
+#!/usr/bin/python3.4
 import sys
 if len(sys.argv) == 1:
     print("usage: python3 solution.py PARAM")
