@@ -1,2 +1,2 @@
 nom = ['abcdefghijklnmopqrstuvwxyz']
-print (nom[0])
+print(nom[0])
