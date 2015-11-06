@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv[0]) == 1:
+if len(sys.argv) == 1:
     print("usage: python3 solution.py OP1 OP2")
 else:
     x = (sys.argv[1])
